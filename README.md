@@ -2,7 +2,7 @@
 
 # Project 2
 
-Griffith Stites and Becca Suchower
+Maeve Stites and Becca Suchower
 
 # Question
 ## How does the amount of sleep in a population affect the spread of illness throughout that population?
